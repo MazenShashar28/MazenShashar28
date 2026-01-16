@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="[PUT_LINKEDIN_HERE](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)" target="_blank">
+  <a href="[[PUT_LINKEDIN_HERE](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mazensharshar87@gmail.com" target="_blank">
