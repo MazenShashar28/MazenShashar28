@@ -1,4 +1,7 @@
-## Hi ! My name is Mazen Sharshar and I'm a Computer Engineer & AI Developer 🇹🇷
+## Hi ! My name is Mazen Sharshar 👋
+
+I'm a **Computer Engineering Graduate** from **Istanbul Aydın University**  
+Interested in **Machine Learning, Deep Learning, and Data Analytics** 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mazen%20Sharshar&fontAlign=50&fontAlignY=35&color=gradient" />
@@ -6,11 +9,11 @@
 
 ---
 
-### 🧠 About Me:
+### 👨‍💻 About Me:
 - 🎓 Computer Engineering Graduate from **Istanbul Aydın University**
-- 🤖 Passionate about **AI / Machine Learning / Deep Learning**
-- 🧪 Built AI graduation project: **Android Error Detection Model**
-- 🚀 Always learning & building real-world projects
+- 🤖 Passionate about **AI / Machine Learning / Data Science**
+- 🧪 Built graduation project: **Android Error Detection Model**
+- 📌 I enjoy building ML models + analyzing real datasets
 
 ---
 
@@ -40,41 +43,24 @@
 - 📊 **Inc. 5000 (2019) Data Analysis**  
   https://github.com/MazenShashar28/Inc.-5000--2019--Data-Analysis
 
-- 🧠 **Android Error Detection Model (Graduation Project)**  
-  *(Add repo link here if uploaded)*
+---
+
+### 📚 Currently Learning (ML & Data Analytics):
+- ✅ Machine Learning fundamentals (Supervised / Unsupervised)
+- ✅ Data preprocessing & feature engineering
+- ✅ Model evaluation (Accuracy, Precision, Recall, F1-score)
+- ✅ Data analytics using **Pandas / NumPy**
+- ✅ Data visualization (**Matplotlib / Seaborn / Power BI**)
+- ✅ SQL for data analysis
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
-</p>
-
----
-
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
----
-
-### 🏆 Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&column=6" />
-</p>
-
----
-
-### 🚀 Currently Working On:
-- Improving ML portfolio with end-to-end projects
-- Learning deployment (FastAPI / Docker)
-- Training deep learning models (CV + Transfer Learning)
+### 🚀 Next Goals:
+- Build more end-to-end ML projects
+- Create analytics dashboards (Power BI)
+- Learn deploying ML models (FastAPI)
 
 ---
 
 ### 💬 Quote:
 > "Keep learning. Keep building. Keep shipping."
-
----
