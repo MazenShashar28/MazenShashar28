@@ -23,11 +23,14 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="[[PUT_LINKEDIN_HERE](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)" target="_blank">
+  <a href="[PUT_LINKEDIN_HERE](https://www.linkedin.com/in/mazen-sharshar-2376b6247/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mazensharshar87@gmail.com" target="_blank">
+  <a href="mailto:PUT_EMAIL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="PUT_PORTFOLIO_OR_CV_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
