@@ -58,7 +58,6 @@ Interested in **Machine Learning, Deep Learning, and Data Analytics** 🚀
 ### 🚀 Next Goals:
 - Build more end-to-end ML projects
 - Create analytics dashboards (Power BI)
-- Learn deploying ML models (FastAPI)
 
 ---
 
